@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.18)  19 JAN 2021 16:04
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.1.18)  19 JAN 2021 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Lecture1.tex
-(./Lecture1.tex
+**Notes.tex
+(./Notes.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (/Users/stanza/Library/Ti
 nyTeX/texmf-dist/tex/latex/base/article.cls
@@ -765,8 +765,8 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-)) (./Lecture1.aux)
-\openout1 = `Lecture1.aux'.
+)) (./Notes.aux)
+\openout1 = `Notes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
@@ -849,9 +849,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
 LaTeX Info: Redefining \nameref on input line 76.
-(./Lecture1.out) (./Lecture1.out)
+(./Notes.out) (./Notes.out)
 \@outlinefile=\write4
-\openout4 = `Lecture1.out'.
+\openout4 = `Notes.out'.
 
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 16.6514pt on input line 78.
@@ -894,26 +894,28 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 9.44046pt on input line 82.
+(Font)              scaled to size 11.32855pt on input line 82.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 9.44046pt on input line 85.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 84.
+(Font)              <10> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 84.
+(Font)              <7> on input line 87.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 84.
+(Font)              <5> on input line 87.
 [1
 
-] [2] (./Lecture1.aux)
-Package rerunfilecheck Info: File `Lecture1.out' has not changed.
-(rerunfilecheck)             Checksum: 3D9C69570459B9951349A339B40A10BA;274.
+] [2] (./Notes.aux)
+Package rerunfilecheck Info: File `Notes.out' has not changed.
+(rerunfilecheck)             Checksum: C59AA43DB266A393AC1A89117565D476;447.
  ) 
 Here is how much of TeX's memory you used:
- 26452 strings out of 479212
- 508790 string characters out of 5873889
- 825785 words of memory out of 5000000
- 45560 multiletter control sequences out of 15000+600000
- 439022 words of font info for 87 fonts, out of 8000000 for 9000
+ 26457 strings out of 479212
+ 508881 string characters out of 5873889
+ 827051 words of memory out of 5000000
+ 45564 multiletter control sequences out of 15000+600000
+ 439030 words of font info for 88 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,6n,123p,416b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,6n,123p,413b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Lecture1.pdf (2 pages).
+Output written on Notes.pdf (2 pages).
